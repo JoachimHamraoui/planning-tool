@@ -33,4 +33,4 @@ PW: admin
 
 ## School Project
 
-This was initially a school project and on a classroom repository.
+This was initially a school project on a classroom repository.
